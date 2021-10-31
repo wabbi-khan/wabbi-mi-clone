@@ -1,0 +1,6 @@
+.NavOptions{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2vmax;
+    z-index: 10000;
+}
